@@ -1,0 +1,25 @@
+- 初心者の第一步
+	- [守则](/rules.md)
+	- [客户端](/cilent.md)
+	- [注意事项](/caution.md)
+- 功能(Air服务器)
+	- [注意](/Air/caution.md)
+	- [钟表菜单]
+	- [PVP管理]
+	- [财产的保护]
+	- [商店]
+	- [全球市场]
+	- [水产工艺]
+- 成就管理
+	- [称号](/honer/tag.md)
+	- [关于正版](/honer/legal.md)
+- 世界
+	- [总览](/world/global.md)
+	- [千夏凉都](/world/senkasuzu.md)
+- 经济与支持
+	- [经济系统](/eco/system.md)
+	- [支持](/eco/support.md)
+	- [特殊权限组详细说明](/eco/detail.md)
+- 疏林Wiki
+	- [更新日志](/changelogs.md)
+	- [声明与感谢](/rights.md)
