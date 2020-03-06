@@ -9,10 +9,12 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">Loading...</div>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
   <script>
     window.$docsify = {
-      name: 'SorinWiki',
+      name: '疏林Wiki',
       loadNavbar: true,
       loadSidebar: true,
       subMaxLevel: 2,
@@ -29,11 +31,10 @@
         paths: 'auto',
         placeholder: '键入开始搜索...',
         noData: '未找到结果',
-        namespace: 'SorinWiki',
-
+        namespace: 'nyaawiki',
+      },
     }
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
