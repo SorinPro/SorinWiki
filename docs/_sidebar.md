@@ -1,5 +1,5 @@
 - 初心者の第一步
-	- [守则](/rules.md)
+	- [守则](/rules/rules.md)
 	- [客户端](/cilent.md)
 	- [注意事项](/caution.md)
 - 功能(Air服务器)
