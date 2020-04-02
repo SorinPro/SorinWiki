@@ -24,7 +24,7 @@
 	- [总览](/world/global.md)
 	- [千夏凉都](/world/senkasuzu.md)
 - 经济与支持
-	- [经济系统](/eco/system.md)
+	- [疏林经济系统](/eco/system.md)
 	- [支持](/eco/support.md)
 	- [特殊权限组详细说明](/eco/detail.md)
 - 疏林Wiki
