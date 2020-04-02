@@ -4,18 +4,23 @@
 	- [客户端](/cilent.md)
 	- [社群](/communi.md)
 	- [注意事项](/caution.md)
-- Air服务器
-	- [钟表菜单]
-	- [PVP管理]
-	- [财产的保护]
-	- [飞行管理]
-	- [商店]
-	- [全球市场]
-	- [水产工艺]
-- 成就管理
+- Air服务器插件
+	- [商店与全球市场](/plugins/shopandmarket.md)
+	- [领地与锁箱](/plugins/resandlock.md)
+	- [邮件与邮箱](/plugins/mail.md)
+	- [飞行管理系统](/plugins/tempfly.md)
+	- [武器附魔系统](/plugins/enchantsystem.md)
+	- [职业系统](/plugins/jobsystem.md)
+	- [其他辅助插件](/plugins/otherplay.md)
+- 成就与奖励
 	- [称号](/honer/tag.md)
-	- [关于正版](/honer/legal.md)
-- 世界
+	- [奖励](/honer/prise.md)
+	- [关于正版与EULA](/honer/legal.md)
+- RPG设定
+	- [RPG物品一览](/RPG/material.md)
+	- [RPG物品合成公式](/RPG/compose.md)
+	- [刷怪房](/RPG/moreexp.md)
+- 次元
 	- [总览](/world/global.md)
 	- [千夏凉都](/world/senkasuzu.md)
 - 经济与支持

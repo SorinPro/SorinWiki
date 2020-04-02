@@ -4,20 +4,19 @@
 
 客户端可在[社群](/communi.md)中，找到我们的QQ群加入下载。
 
-!> 最新客户端请查阅其他群公告。目前有面向大众的正式版客户端与FastBPreviewv（快速预览）。前者稳定性较高。
-
 ### Air服务器
 
 最新版客户端：
-	TCSA v2.1（The Cilent of SinA v2.1) 
+	TCSA v2.7（The Cilent of SinA v2.7 For Minecraft 1.15.2)  
 	
 包括的错误修复和改进一览：
 ```
-● 适配服务器疏林之森Air (Minecraft1.14.4)
-● 提高了Minecraft版本使得优化增强
-● 替换和增加了启动器
-● 修复了Unknown host的问题
-ⅰ：强制更新
+● 新增了Opitifine高清修复最新预览版(Pre10)，支持光影功能的启用
+● 新增了一些光影文件
+● 更新了FabricLoader版本
+● 更新了HelloMinecraftLauncher启动器版本
+● 更新了NsisoLauncher启动器版本
+ⅰ：原Ver.2.6客户端仍可继续登录服务器。
 ```
 
 ### 模组服
