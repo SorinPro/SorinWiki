@@ -1,11 +1,11 @@
 # 欢迎来到疏林之森！ #
 > 疏影横斜水清浅，暗香浮动月黄昏。   ——(宋)林逋
 
-### 当前在运营服务器： Air  Pro
+### 当前未在运营服务器
 
 服务器版本 Paper 1.15.2 **外置登录**
 
-          Mohist for Minecraft 1.12.2 Forge
+Mohist for Minecraft 1.12.2 Forge
 
 !> 请使用 Minecraft 1.15.2 版本登录服务器，允许自定义模组。
 **不支持多版本登录**
