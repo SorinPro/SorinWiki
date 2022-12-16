@@ -1,16 +1,16 @@
 - 初心者の第一步
 	- [守则](/rules.md)
-	- [新手指南(Air服务器)](/hajimete.md)
+	- [新手指南](/hajimete.md)
 	- [客户端](/cilent.md)
 	- [社群](/communi.md)
 	- [注意事项](/caution.md)
-- Air服务器插件
+- 基础功能
 	- [商店与全球市场](/plugins/shopandmarket.md)
 	- [领地与锁箱](/plugins/resandlock.md)
 	- [邮件与邮箱](/plugins/mail.md)
-	- [飞行管理系统](/plugins/tempfly.md)
-	- [武器附魔系统](/plugins/enchantsystem.md)
-	- [职业系统](/plugins/jobsystem.md)
+	- [飞行管理系统(暂缓开通)](/plugins/tempfly.md)
+	- [武器附魔系统(暂缓开通)](/plugins/enchantsystem.md)
+	- [职业系统(暂缓开通)](/plugins/jobsystem.md)
 	- [其他辅助插件](/plugins/otherplay.md)
 - 成就与奖励
 	- [称号](/honer/tag.md)
@@ -24,7 +24,7 @@
 	- [总览](/world/global.md)
 	- [千夏凉都](/world/senkasuzu.md)
 - 经济与支持
-	- [疏林经济系统](/eco/system.md)
+	- [疏林经济系统(已过时)](/eco/system.md)
 	- [支持](/eco/support.md)
 	- [特殊权限组详细说明](/eco/detail.md)
 - 疏林Wiki
